@@ -1,6 +1,6 @@
-# Привет, я [Твоё имя] 👋
+# Привет, я Канат 👋
 
-Я начинающий разработчик, который изучает программирование, создаёт проекты и постепенно прокачивает навыки в IT.
+Я разработчик, который изучает программирование, создаёт проекты и постепенно прокачивает навыки в IT.
 
 ## 🚀 Обо мне
 
@@ -18,9 +18,9 @@
 
 ## 📊 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esnmnvv&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esnmnvv&layout=compact&theme=tokyonight)
 
 ## ✨ Немного обо мне
 
